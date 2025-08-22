@@ -80,7 +80,20 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "PeripheralSOMBreakout.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": -12,
+          "pos_y": -12,
+          "size_x": 2280,
+          "size_y": 1528
+        }
+      }
+    ]
   },
   "schematic": {
     "selection_filter": {

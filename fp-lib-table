@@ -7,4 +7,5 @@
   (lib (name "UTSVT_Power")(type "KiCad")(uri "${KIPRJMOD}/KiCAD-Sharepoint/UTSVT_Power.pretty")(options "")(descr ""))
   (lib (name "UTSVT_Special")(type "KiCad")(uri "${KIPRJMOD}/KiCAD-Sharepoint/UTSVT_Special.pretty")(options "")(descr ""))
   (lib (name "Banana")(type "KiCad")(uri "${KIPRJMOD}/lib/Banana.pretty")(options "")(descr ""))
+  (lib (name "DB9")(type "KiCad")(uri "${KIPRJMOD}/lib/DB9.pretty")(options "")(descr ""))
 )

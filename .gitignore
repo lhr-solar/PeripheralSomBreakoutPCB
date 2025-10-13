@@ -30,7 +30,7 @@ fp-info-cache
 *.log
 
 # Backup files
-PeripheralSOMBreakoutPCB-backups/
+PeripheralSOMBreakout-backups/
 
 # Mac Specific
 .DS_Store
